@@ -13,17 +13,28 @@ _dataType variableName = value;_
 
 ### Primitive
 _byte_
+
 _short_
+
 _int_
+
 _long_
+
 _float_
+
 _double_
+
 _char_
+
 _boolean_
 
 ### Non Primitive
 _String_
+
 _Array_
+
 _Class_
+
 _Interface_
+
 _Object_
